@@ -1,0 +1,25 @@
+{
+  "name": "CardinoBlog-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rclaire15/CardinoBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rclaire15/CardinoBlog/issues"
+  },
+  "homepage": "https://github.com/rclaire15/CardinoBlog#readme"
+}
